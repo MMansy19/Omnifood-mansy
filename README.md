@@ -1,4 +1,4 @@
-# OmniFood Website - Technical README
+# OmniFood Website
 
 This README provides an overview of the technical aspects of the OmniFood website, highlighting the technologies used, responsive design implementation, and project structure.
 
