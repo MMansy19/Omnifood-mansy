@@ -49,7 +49,7 @@ The project structure is organized as follows:
 
 ## Author
 
-### [Website](https://mahmoud-mansy-portfolio.netlify.app/)
-### [Github](https://github.com/MMansy19)
-### [Linkedin](https://www.linkedin.com/in/mahmoud-mansy-a189a5232/)
+- [Website](https://mahmoud-mansy-portfolio.netlify.app/)
+- [GitHub](https://github.com/MMansy19)
+- [LinkedIn](https://www.linkedin.com/in/mahmoud-mansy-a189a5232/)
 
