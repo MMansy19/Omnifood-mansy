@@ -7,6 +7,7 @@ This README provides an overview of the technical aspects of the OmniFood websit
 ## Table of Contents
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
+- [Key Features](#key-features)
 - [Responsive Design](#responsive-design)
 - [Project Structure](#project-structure)
 - [Author](#author)
@@ -21,6 +22,12 @@ The OmniFood website primarily utilizes the following technologies:
 - JavaScript (ES6): Programming language for adding interactivity and dynamic behavior.
 - Ionicons: Icon library for adding icons to the website.
 - Smoothscroll Polyfill: JavaScript library for smooth scrolling functionality.
+
+## Key Features
+- **Personalized Meal Plans**: Tailored to your tastes and nutritional needs.
+- **Convenient Subscription**: Never worry about what to cook with daily meal deliveries.
+- **Responsive Design**: Beautiful UI ensuring seamless experience across all devices.
+- **Contact Form**: Reach out to us easily with any questions or inquiries.
 
 ## Responsive Design
 The website is designed to be responsive, ensuring optimal viewing experience across various devices and screen sizes. Responsive design techniques include:
